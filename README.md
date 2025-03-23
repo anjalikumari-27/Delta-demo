@@ -1,4 +1,8 @@
 # Delta-demo
-This is a Demo for Git and Github class.
-This is my Demo class. for Git and GitHub.
+This is a Demo for Git &amp; Github class.
 
+#Teacher 
+Shradha Khapra
+
+#Student
+Sigma student
